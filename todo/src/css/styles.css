@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #DEBA1F;
+}
+
+.nav-bar{
+    display: flex;
+    background-color: #BA1FDE;
+    justify-content: flex-end;
+}
+
+.nav-bar-button{
+    text-decoration: none;
+    margin: 10px;
+    padding: 5px;
+    background-color: #DEBA1F;
+    color: #BA1FDE;
+    border: 2px solid #BA1FDE;
+    border-radius: 20%;
+    text-align: right;
+}
+
+
