@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    paddding: 0;
+}
+
+.home {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background: linear-gradient(to bottom, #92DCE5 , #fff );
+}
+
+.home__title{
+    margin: 20px 0;
+    text-align: center;
+}
+
+.home__title__title{
+    border: 4px solid #ff9b92;
+    padding: 20px;
+    border-radius: 20px;
+    font-weight: bold;
+    font-size: xx-large;
+    background-color: #e59b92;
+    color: #ffffff;
+}
+.home__addToDoItem {
+    margin: 20px;
+    width: 50%;
+}
